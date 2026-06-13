@@ -13,6 +13,7 @@ Un gabinete personalizado impreso en 3D diseñado para alojar todos los componen
 ![Vista Frontal](<img width="1119" height="487" alt="2cc15e6c-6a6f-4cca-9b95-2ebb0c33cd4a" src="https://github.com/user-attachments/assets/b1823c16-2447-4adf-a26c-755aacbea651" />)
 
 ### Vista Trasera / Interior
+<img width="1119" height="487" alt="2cc15e6c-6a6f-4cca-9b95-2ebb0c33cd4a" src="https://github.com/user-attachments/assets/a8b685ef-b24b-4055-a109-19128c223653" />
 
 ![Vista Trasera](images/final-rear.jpg)
 
