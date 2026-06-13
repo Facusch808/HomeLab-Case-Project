@@ -8,14 +8,17 @@ Un gabinete personalizado impreso en 3D diseñado para alojar todos los componen
 
 ## Resultado Final
 
-### Vista Frontal
+<img width="1600" height="716" alt="fc78f7de-8251-4f4e-95ee-2f29512d72c2" src="https://github.com/user-attachments/assets/a6dc0678-d68f-4dbe-8d8c-476ca6a0686b" />
 
-![Vista Frontal](<img width="1119" height="487" alt="2cc15e6c-6a6f-4cca-9b95-2ebb0c33cd4a" src="https://github.com/user-attachments/assets/b1823c16-2447-4adf-a26c-755aacbea651" />)
+<img width="1578" height="562" alt="3d6c6f34-6a1b-4931-80f1-078efbc3c181" src="https://github.com/user-attachments/assets/5bcdbeba-29ba-4170-8fd0-a589f8627484" />
 
-### Vista Trasera / Interior
-<img width="1119" height="487" alt="2cc15e6c-6a6f-4cca-9b95-2ebb0c33cd4a" src="https://github.com/user-attachments/assets/a8b685ef-b24b-4055-a109-19128c223653" />
 
-![Vista Trasera](images/final-rear.jpg)
+<img width="1119" height="487" alt="2cc15e6c-6a6f-4cca-9b95-2ebb0c33cd4a" src="https://github.com/user-attachments/assets/b6a01471-0f77-4cc7-90f6-0e404f827977" />
+
+<img width="1600" height="1074" alt="47255d47-ca92-4605-bca3-cb1cfa08b16d" src="https://github.com/user-attachments/assets/e9c8a2f5-5204-44be-878f-063a0e300068" />
+
+<img width="1600" height="956" alt="e569b012-2df9-44ad-acbb-23625d23564a" src="https://github.com/user-attachments/assets/bf3ec4b5-dc98-4887-9342-62fb0e707da3" />
+
 
 ---
 
