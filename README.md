@@ -1,2 +1,154 @@
 # HomeLab-Case-Project
 Custom media server enclosure project featuring CAD design, 3D-printable components, assembly documentation, and detailed build photos.
+# Gabinete para Media Server
+
+Un gabinete personalizado impreso en 3D diseñado para alojar todos los componentes de un media server de forma compacta, ordenada y fácil de mantener.
+
+---
+
+## Resultado Final
+
+### Vista Frontal
+
+![Vista Frontal](images/final-front.jpg)
+
+### Vista Trasera / Interior
+
+![Vista Trasera](images/final-rear.jpg)
+
+---
+
+## Piezas para Imprimir
+
+Todas las piezas imprimibles pueden descargarse desde MakerWorld:
+
+| Pieza | Link |
+|--------|--------|
+| Chasis Principal | [Link MakerWorld](#) |
+| Panel Frontal | [Link MakerWorld](#) |
+| Panel Trasero | [Link MakerWorld](#) |
+| Bandeja de Discos | [Link MakerWorld](#) |
+| Soporte de Ventilador | [Link MakerWorld](#) |
+| Soporte de Fuente | [Link MakerWorld](#) |
+| Separadores Motherboard | [Link MakerWorld](#) |
+| Otras Piezas | [Link MakerWorld](#) |
+
+---
+
+## Lista de Materiales (BOM)
+
+### Piezas Impresas
+
+| ID | Pieza |
+|----|------|
+| P1 | Chasis Principal |
+| P2 | Panel Frontal |
+| P3 | Panel Trasero |
+| P4 | Bandeja de Discos |
+| P5 | Soporte de Ventilador |
+| P6 | Soporte de Fuente |
+
+### Hardware
+
+| ID | Material | Cantidad |
+|----|----------|----------|
+| H1 | Tornillos M3x8 | XX |
+| H2 | Insertos roscados M3 | XX |
+| H3 | Ventilador 120 mm | XX |
+| H4 | SSD/HDD SATA | XX |
+| H5 | Fuente de alimentación | 1 |
+| H6 | Motherboard | 1 |
+
+---
+
+# Guía de Armado
+
+## Paso 1 – Imprimir todas las piezas
+
+![Paso 1](images/step1.jpg)
+
+Imprimir todas las piezas indicadas en la sección
+[Piezas para Imprimir](#piezas-para-imprimir).
+
+**Piezas utilizadas:** P1, P2, P3, P4, P5, P6
+
+---
+
+## Paso 2 – Instalar los insertos roscados
+
+![Paso 2](images/step2.jpg)
+
+Instalar todos los insertos roscados en los puntos de montaje correspondientes.
+
+**Materiales utilizados:** H2
+
+---
+
+## Paso 3 – Armar la estructura principal
+
+![Paso 3](images/step3.jpg)
+
+Fijar los paneles frontal y trasero al chasis principal.
+
+**Piezas utilizadas:** P1, P2, P3  
+**Materiales utilizados:** H1
+
+---
+
+## Paso 4 – Instalar los discos
+
+![Paso 4](images/step4.jpg)
+
+Montar los discos en la bandeja y asegurarlos en su posición.
+
+**Piezas utilizadas:** P4  
+**Materiales utilizados:** H1  
+**Componentes adicionales:** H4
+
+---
+
+## Paso 5 – Instalar la ventilación
+
+![Paso 5](images/step5.jpg)
+
+Montar el ventilador utilizando el soporte correspondiente.
+
+**Piezas utilizadas:** P5  
+**Materiales utilizados:** H1  
+**Componentes adicionales:** H3
+
+---
+
+## Paso 6 – Instalar motherboard y fuente
+
+![Paso 6](images/step6.jpg)
+
+Fijar la motherboard y la fuente dentro del gabinete.
+
+**Piezas utilizadas:** P6  
+**Materiales utilizados:** H1  
+**Componentes adicionales:** H5, H6
+
+---
+
+## Paso 7 – Ensamblado final
+
+![Paso 7](images/step7.jpg)
+
+Realizar el cableado final y cerrar el gabinete.
+
+**Piezas utilizadas:** Todas las restantes
+
+---
+
+## Resultado Final
+
+![Resultado Final](images/final-build.jpg)
+
+El gabinete para media server está listo para usarse.
+
+---
+
+## Licencia
+
+Este proyecto se distribuye bajo la licencia MIT.
