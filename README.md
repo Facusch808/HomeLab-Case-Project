@@ -1,8 +1,6 @@
 # HomeLab-Case-Project
 Custom media server enclosure project featuring CAD design, 3D-printable components, assembly documentation, and detailed build photos.
-# Gabinete para Media Server
 
-Un gabinete personalizado impreso en 3D diseñado para alojar todos los componentes de un media server de forma compacta, ordenada y fácil de mantener.
 
 ---
 
@@ -68,89 +66,18 @@ Todas las piezas imprimibles pueden descargarse desde MakerWorld:
 
 # Guía de Armado
 
-## Paso 1 – Imprimir todas las piezas
+<img width="1554" height="1600" alt="20196802-5715-4064-978b-e7a89c25cbcc" src="https://github.com/user-attachments/assets/ab900af1-874f-4b65-b704-01709b33a7ce" />
+<img width="1600" height="1480" alt="15e88265-d036-439b-889d-503194c50ca6" src="https://github.com/user-attachments/assets/3d730a57-7d8e-4623-8346-3df3a9a5c9db" />
+<img width="1600" height="956" alt="e569b012-2df9-44ad-acbb-23625d23564a" src="https://github.com/user-attachments/assets/daaa4452-d545-4fce-ba83-648a413186f9" />
+<img width="1200" height="1600" alt="cc00d625-d4c5-4fc3-8aa3-a856e2322faa" src="https://github.com/user-attachments/assets/db3de64d-3575-4339-857d-3332e1dcfceb" />
+<img width="1200" height="1600" alt="d9939ed1-3705-4359-950d-cf7e054325b6" src="https://github.com/user-attachments/assets/3f25cb33-975c-429d-b0a4-519cdbc4b66a" />
+<img width="1573" height="634" alt="3d6c6f34-6a1b-4931-80f1-078efbc3c181" src="https://github.com/user-attachments/assets/9884293a-297d-4956-8f03-7714b0f10a09" />
+<img width="1200" height="1600" alt="9f745479-d345-4d56-b9ec-5ae366bc881c" src="https://github.com/user-attachments/assets/5df065be-98f5-4c49-8a85-68f5d8d8042b" />
+<img width="1200" height="1503" alt="WhatsApp Image 2026-06-13 at 6 51 55 PM" src="https://github.com/user-attachments/assets/3e543054-5141-4622-b666-2a960478ce33" />
+<img width="1600" height="1074" alt="47255d47-ca92-4605-bca3-cb1cfa08b16d" src="https://github.com/user-attachments/assets/743bca68-3cd5-4151-b800-c26af17efa72" />
+<img width="960" height="1280" alt="d16a8d0d-0d95-4538-83d9-b45d2bf321cd" src="https://github.com/user-attachments/assets/dc7fc5d4-ed18-4e4f-ba9e-01f750f83f2e" />
+<img width="1119" height="487" alt="2cc15e6c-6a6f-4cca-9b95-2ebb0c33cd4a" src="https://github.com/user-attachments/assets/0aeda896-7461-44b8-9c36-bbd8515420a9" />
 
-![Paso 1](images/step1.jpg)
-
-Imprimir todas las piezas indicadas en la sección
-[Piezas para Imprimir](#piezas-para-imprimir).
-
-**Piezas utilizadas:** P1, P2, P3, P4, P5, P6
-
----
-
-## Paso 2 – Instalar los insertos roscados
-
-![Paso 2](images/step2.jpg)
-
-Instalar todos los insertos roscados en los puntos de montaje correspondientes.
-
-**Materiales utilizados:** H2
-
----
-
-## Paso 3 – Armar la estructura principal
-
-![Paso 3](images/step3.jpg)
-
-Fijar los paneles frontal y trasero al chasis principal.
-
-**Piezas utilizadas:** P1, P2, P3  
-**Materiales utilizados:** H1
-
----
-
-## Paso 4 – Instalar los discos
-
-![Paso 4](images/step4.jpg)
-
-Montar los discos en la bandeja y asegurarlos en su posición.
-
-**Piezas utilizadas:** P4  
-**Materiales utilizados:** H1  
-**Componentes adicionales:** H4
-
----
-
-## Paso 5 – Instalar la ventilación
-
-![Paso 5](images/step5.jpg)
-
-Montar el ventilador utilizando el soporte correspondiente.
-
-**Piezas utilizadas:** P5  
-**Materiales utilizados:** H1  
-**Componentes adicionales:** H3
-
----
-
-## Paso 6 – Instalar motherboard y fuente
-
-![Paso 6](images/step6.jpg)
-
-Fijar la motherboard y la fuente dentro del gabinete.
-
-**Piezas utilizadas:** P6  
-**Materiales utilizados:** H1  
-**Componentes adicionales:** H5, H6
-
----
-
-## Paso 7 – Ensamblado final
-
-![Paso 7](images/step7.jpg)
-
-Realizar el cableado final y cerrar el gabinete.
-
-**Piezas utilizadas:** Todas las restantes
-
----
-
-## Resultado Final
-
-![Resultado Final](images/final-build.jpg)
-
-El gabinete para media server está listo para usarse.
 
 ---
 
