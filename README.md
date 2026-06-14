@@ -31,11 +31,14 @@ Todas las piezas imprimibles pueden descargarse desde MakerWorld:
 | Clamping with cable ties | [https://makerworld.com/es/models/452034-zip-tie-mount#profileId-359160](#) |
 | Door Handle | [https://makerworld.com/es/models/1871683-modern-angular-front-mounted-drawer-pull-or-handle#profileId-2003447](#) |
 | cable grommet | [https://makerworld.com/es/models/2928691-cable-grommet#profileId-3278307](#) |
-| Bandeja de Discos | [Link MakerWorld](#) |
-| Soporte de Ventilador | [Link MakerWorld](#) |
-| Soporte de Fuente | [Link MakerWorld](#) |
-| Separadores Motherboard | [Link MakerWorld](#) |
-| Otras Piezas | [Link MakerWorld](#) |
+| 90-degree door latch | [https://makerworld.com/es/models/2928668-90-degree-door-latch#profileId-3278265](#) |
+| Micro ATX rack and measurements | [https://makerworld.com/es/models/2928633-micro-atx-rack-and-measurements#profileId-3278202](#) |
+| power supply support | [https://makerworld.com/es/models/2928628-power-supply-support#profileId-3278194](#) |
+| plastic washer | [https://makerworld.com/es/models/2928621-plastic-washer#profileId-3278185](#) |
+| Door Latch low profile  | [https://makerworld.com/es/models/2928572-door-latch-low-profile#profileId-3278132](#) |
+| Rack Hdd 3.5 | [https://makerworld.com/es/models/2928548-rack-hdd-3-5#profileId-3278098](#) |
+| SSD to HDD 3.5 Adapter | [https://makerworld.com/es/models/2928477-ssd-to-hdd-3-5-adapter#profileId-3278018](#) |
+| Socket Hot Swap for coolers 120mm | [ ](#) |
 
 ---
 
