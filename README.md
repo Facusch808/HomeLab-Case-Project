@@ -34,7 +34,7 @@ All printable parts can be downloaded from MakerWorld:
 | Low-Profile Door Latch          | https://makerworld.com/es/models/2928572-door-latch-low-profile#profileId-3278132                             |
 | 3.5" HDD Rack                   | https://makerworld.com/es/models/2928548-rack-hdd-3-5#profileId-3278098                                       |
 | SSD to 3.5" HDD Adapter         | https://makerworld.com/es/models/2928477-ssd-to-hdd-3-5-adapter#profileId-3278018                             |
-| Hot-Swap Socket for 120mm Fans  | https://cults3d.com/es/modelo-3d/artilugios/hot-swap-socket-for-120mm-fan                                     |
+| Hot-Swap Socket for 120mm Fans  | https://cults3d.com/es/modelo-3d/artilugios/hot-swap-socket-for-120mm-fans                                    |
 
 ---
 
