@@ -42,29 +42,27 @@ Todas las piezas imprimibles pueden descargarse desde MakerWorld:
 
 ---
 
-## Lista de Materiales (BOM)
+## Lista de Materiales 
 
-### Piezas Impresas
+### Woods
 
 | ID | Pieza |
 |----|------|
-| P1 | Chasis Principal |
-| P2 | Panel Frontal |
-| P3 | Panel Trasero |
-| P4 | Bandeja de Discos |
-| P5 | Soporte de Ventilador |
-| P6 | Soporte de Fuente |
+| P1 | Base pinewood of 20mm |
+| P2 | Panels pinewood 15mm |
+| P3 | Top base mdf 6mm |
+
 
 ### Hardware
 
-| ID | Material | Cantidad |
-|----|----------|----------|
-| H1 | Tornillos M3x8 | XX |
-| H2 | Insertos roscados M3 | XX |
-| H3 | Ventilador 120 mm | XX |
-| H4 | SSD/HDD SATA | XX |
-| H5 | Fuente de alimentación | 1 |
-| H6 | Motherboard | 1 |
+| Componente | Hardware |
+|----|----------|
+| CPU | Ryzen 5 3600 |
+| HDD| 3 HDD 4TB |
+| SSD | SSD 240GB |
+| GPU | gt 710 | 
+| Ram | 16gb | 
+| Motherboard | A520M -a pro | 
 
 ---
 
