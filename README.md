@@ -28,9 +28,9 @@ Todas las piezas imprimibles pueden descargarse desde MakerWorld:
 
 | Pieza | Link |
 |--------|--------|
-| Chasis Principal | [Link MakerWorld](#) |
-| Panel Frontal | [Link MakerWorld](#) |
-| Panel Trasero | [Link MakerWorld](#) |
+| Clamping with cable ties | [https://makerworld.com/es/models/452034-zip-tie-mount#profileId-359160](#) |
+| Door Handle | [https://makerworld.com/es/models/1871683-modern-angular-front-mounted-drawer-pull-or-handle#profileId-2003447](#) |
+| cable grommet | [https://makerworld.com/es/models/2928691-cable-grommet#profileId-3278307](#) |
 | Bandeja de Discos | [Link MakerWorld](#) |
 | Soporte de Ventilador | [Link MakerWorld](#) |
 | Soporte de Fuente | [Link MakerWorld](#) |
