@@ -84,6 +84,18 @@ All printable parts can be downloaded from MakerWorld:
 <img width="960" height="1280" alt="d16a8d0d-0d95-4538-83d9-b45d2bf321cd" src="https://github.com/user-attachments/assets/dc7fc5d4-ed18-4e4f-ba9e-01f750f83f2e" />
 
 <img width="1119" height="487" alt="2cc15e6c-6a6f-4cca-9b95-2ebb0c33cd4a" src="https://github.com/user-attachments/assets/0aeda896-7461-44b8-9c36-bbd8515420a9" />
+<img width="1600" height="1037" alt="b53985aa-b103-4fc0-8a50-8623fe639b5b" src="https://github.com/user-attachments/assets/21c9a37c-2f40-4b80-a8a1-422bc1528bb2" />
+
+
+
+
+https://github.com/user-attachments/assets/6097c2ee-e295-4930-ad3e-c91fd6d98575
+
+
+
+https://github.com/user-attachments/assets/5a6dc839-8380-43a1-bc2b-2687f19e1d89
+
+
 
 ---
 
